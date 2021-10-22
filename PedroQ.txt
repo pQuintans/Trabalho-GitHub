@@ -1,0 +1,12 @@
+* O que você gostaria de aprender no curso, quais melhorias você sugere?
+R: Gostaria de aprender Node, React e Python. Sugiro sobre tecnologias mais atualizadas e mais aulas praticas.
+
+* Sugira, quais os pontos fortes do curso, os pontos fracos, etc. Faça também sugestões.
+R: 
+- O ponto forte é o método de ensino que aguça a curiosidade;
+- Como ponto fraco são matérias teóricas que poderiam ser lecionadas de uma maneira mais eficiente;
+
+* Para a disciplina de tópicos: o que você gostaria de aprender nessa disciplina?
+R: Nesta disciplina, seria muito bom aprender a usar o Figma.
+
+(Pontos discutidos pelo grupo)
